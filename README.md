@@ -1,3 +1,3 @@
 reppruebas
 ==========
-EL README de pruebas
+EL README de pruebas de hoy.
